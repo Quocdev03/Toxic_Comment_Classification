@@ -1,4 +1,4 @@
-# Fake News Detection (TF-IDF + SMOTE + LinearSVC)
+# Toxic Comment Classification (TF-IDF + SMOTE + LinearSVC)
 
 Dự án phân loại bình luận **Toxic / Non-Toxic** bằng tiếng Anh, sử dụng:
 
